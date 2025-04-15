@@ -39,7 +39,7 @@ StreamingStdOutCallbackHandler로 실시간 응답 제공
 
 ---
 
-4. 🧸 TODO
+## 4. 🧸 TODO
 
 - [ ] 웹 UI 꾸미기 (Streamlit 레이아웃 개선)
 - [ ] 사용 로그 저장 기능 추가
