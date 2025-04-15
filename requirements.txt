@@ -384,3 +384,4 @@ xxhash==3.5.0 ; python_version >= "3.11" and python_version < "3.12"
 yarl==1.19.0 ; python_version >= "3.11" and python_version < "3.12"
 zipp==3.21.0 ; python_version >= "3.11" and python_version < "3.12"
 zstandard==0.23.0 ; python_version >= "3.11" and python_version < "3.12"
+python-dotenv
