@@ -1,6 +1,6 @@
 # Simple_Chatbot-app
 
-LangChain + OpenAI + Streamlit으로 만든 한국어 기반 스트리밍 챗봇 프로젝트입니다.
+LangChain + OpenAI + Streamlit으로 만든 [한국어 기반 스트리밍 챗봇 프로젝트](https://malgamchatbot.streamlit.app/)입니다.
 
 ![image](https://github.com/user-attachments/assets/a85a43f0-bb95-44f6-bb97-113b9150961b)
 
