@@ -6,15 +6,15 @@ LangChain + OpenAI + Streamlit으로 만든 [한국어 기반 스트리밍 챗�
 
 
 ## 1. 소개
-LangChain Expression Language (LCEL) 을 활용한 간단하고 깔끔한 체인 구성
+- LangChain Expression Language (LCEL) 을 활용한 간단하고 깔끔한 체인 구성
 
-System + User PromptTemplate 으로 역할과 질문을 구분
+- System + User PromptTemplate 으로 역할과 질문을 구분
 
-OpenAI GPT-4-Turbo 모델 사용
+- OpenAI GPT-4-Turbo 모델 사용
 
-Streamlit 인터페이스로 누구나 쉽게 사용 가능
+- Streamlit 인터페이스로 누구나 쉽게 사용 가능
 
-StreamingStdOutCallbackHandler로 실시간 응답 제공
+- StreamingStdOutCallbackHandler로 실시간 응답 제공
 
 
 ## 2. 기술 스택
