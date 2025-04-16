@@ -2,7 +2,7 @@
 
 LangChain + OpenAI + Streamlit으로 만든 [한국어 기반 스트리밍 챗봇 프로젝트](https://malgamchatbot.streamlit.app/)입니다.
 
-![챗봇 시연](./demo/앱.gif)
+![챗봇 시연](./demo/demo.gif)
 
 
 ## 1. 소개
